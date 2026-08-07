@@ -1,0 +1,9 @@
+EmailText,label
+"Congratulations! You won $1000. Click here.",phishing
+"Meeting scheduled tomorrow at 10 AM.",safe
+"Verify your account immediately.",phishing
+"Project discussion attached.",safe
+"Update your bank account now.",phishing
+"Lunch at 1 PM?",safe
+"Claim your free gift now!",phishing
+"Please review the attached report.",safe
