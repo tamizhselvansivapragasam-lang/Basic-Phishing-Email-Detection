@@ -1,0 +1,6 @@
+
+
+pip install pandas numpy scikit-learn matplotlib seaborn joblib
+
+
+please paste above line in your command prompt to run this tool 
