@@ -20,7 +20,7 @@ from sklearn.metrics import (
 # ---------------------------
 # Load Dataset
 # ---------------------------
-data = pd.read_csv("datasets/phishing_email.csv")
+data = pd.read_csv("phishing_email.csv")
 
 # Convert labels to numbers
 data["label"] = data["label"].map({
